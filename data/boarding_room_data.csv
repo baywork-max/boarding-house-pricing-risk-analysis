@@ -1,0 +1,11 @@
+room_id,room_type,price_idr,payment_status
+R01,Non-AC Ensuite,800000,On Time
+R02,Non-AC Ensuite,800000,On Time
+R03,Non-AC Ensuite,800000,Late
+R04,Non-AC Ensuite,800000,On Time
+R05,AC Ensuite,1200000,On Time
+R06,AC Ensuite,1200000,Late
+R07,AC Ensuite,1200000,Failed
+R08,AC Ensuite,1200000,On Time
+R09,Non-AC Ensuite,800000,Late
+R10,AC Ensuite,1200000,Failed
